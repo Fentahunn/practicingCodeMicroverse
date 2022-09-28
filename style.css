@@ -5,10 +5,20 @@ html{
 }
 
 #welcome-section {
-    background: aqua;
+    background: gray;
     padding-top: 10%;
     padding-bottom: 20%;
     margin: auto;
     font-size: 50px;
     text-align: center;
+}
+#navbar {
+background-color: #a69b38;
+display: flex;
+margin: auto;
+font-size: 28px;
+}
+#navbar ul li{
+    display: inline-block;
+    margin: 10px;
 }
