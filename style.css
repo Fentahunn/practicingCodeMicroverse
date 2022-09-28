@@ -5,7 +5,7 @@ html{
 }
 
 #welcome-section {
-    background: gray;
+    background: #303841;
     padding-top: 10%;
     padding-bottom: 20%;
     margin: auto;
@@ -13,7 +13,7 @@ html{
     text-align: center;
 }
 #navbar {
-background-color: #a69b38;
+background-color:#be3144;
 display: flex;
 margin: auto;
 font-size: 28px;
